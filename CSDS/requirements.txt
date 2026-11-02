@@ -1,0 +1,6 @@
+# Data manipulation and matrix computations
+pandas==2.1.0
+numpy==1.25.2
+
+# Configuration parsing
+PyYAML==6.0.1

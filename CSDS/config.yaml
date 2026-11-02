@@ -1,0 +1,18 @@
+# config.yaml
+# Configuration and hyperparameters for the Cultural Spatiotemporal Diffusion Simulation (CSDS).
+
+simulation:
+  iterations: 10
+
+hyperparameters:
+  transform_rate_H: 0.3
+  contact_rate: 0.002
+  transform_rate_I: 0.2
+  transform_rate_A: 0.15
+  itoA_rate: 0.15
+  htoI_rate: 0.2
+
+paths:
+  # Paths are relative to the root directory where main.py is located
+  data_in_dir: "data/source_data"
+  data_out_dir: "data/output_data"

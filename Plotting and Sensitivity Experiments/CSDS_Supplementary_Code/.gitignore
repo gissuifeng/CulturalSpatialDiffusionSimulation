@@ -1,0 +1,16 @@
+**/data/
+**/simulation_inputs/
+**/inputs/
+**/results*/
+**/analysis/
+**/output/
+**/block_refit/
+**/__pycache__/
+*.csv
+*.csv.gz
+*.npz
+*.npy
+*.shp
+*.shx
+*.dbf
+*.pyc

@@ -1,0 +1,9 @@
+nbclient>=0.10,<1
+nbformat>=5.10,<6
+ipykernel>=6,<8
+numpy
+pandas
+matplotlib
+scipy
+pyshp
+openpyxl

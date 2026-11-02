@@ -1,0 +1,43 @@
+{
+  "years": 40,
+  "start_year": 2020,
+  "seeds": [
+    20261012,
+    20261013,
+    20261014
+  ],
+  "exclude_unknown_od": true,
+  "baseline": {
+    "r": 0.002,
+    "muH": 0.3,
+    "muI": 0.2,
+    "muA": 0.15,
+    "gamma": 0.2,
+    "theta": 0.15
+  },
+  "levels": {
+    "r": [
+      0.001,
+      0.0015,
+      0.002,
+      0.003,
+      0.004
+    ],
+    "gamma": [
+      0.09,
+      0.13,
+      0.17,
+      0.2,
+      0.25
+    ],
+    "theta": [
+      0.06,
+      0.1,
+      0.15,
+      0.21,
+      0.28
+    ]
+  },
+  "engine": "current_python_channels_v1",
+  "model_status": "specified_experiment_configuration"
+}
